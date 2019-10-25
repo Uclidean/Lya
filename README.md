@@ -12,5 +12,6 @@ Would produce a .pdf with all text that is included with \begin{ki} and \end{ki}
 
 Dependencies
 ===========
-pdflatex
+pdflatex,
+
 File named "header.tex" that includes any packages, environments, etc. that you bave used in your .tex file. 
